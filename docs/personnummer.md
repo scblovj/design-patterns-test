@@ -12,7 +12,7 @@ nav_order: 10
 
 ## Använd mönstret när
 
-Beskrivning.
+Vi behöver ta reda på ett personnummer.
 
 ## Använd inte mönstret när
 
